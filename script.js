@@ -214,6 +214,6 @@ function submit() {
         count++;
     }
     if(count == 16){
-        alert('You did it! Go get your nintendo switch ;)\nYour code is: E0WWTWB4V2J9J83K')
+        window.alert('You did it! Go get your nintendo switch ;)\nYour code is: E0WWTWB4V2J9J83K');
     }
 }
